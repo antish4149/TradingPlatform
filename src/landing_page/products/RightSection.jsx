@@ -1,10 +1,9 @@
 import React from "react";
-
-function Brokerage() {
+function RightSection() {
     return ( 
         <>
         </>
-    );
+     );
 }
 
-export default Brokerage;
+export default RightSection ;
