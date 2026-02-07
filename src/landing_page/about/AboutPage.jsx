@@ -1,8 +1,10 @@
 import React from "react";
+import HeroPage from "./Hero.jsx";
+import Hero from "./Hero.jsx";
 function AboutPage() {
     return ( 
     <div>
-        <h1>About page</h1>
+        <HeroPage/>
     </div> );
 }
 

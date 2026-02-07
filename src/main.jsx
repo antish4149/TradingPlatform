@@ -10,6 +10,8 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Footer from './landing_page/footer'
 import Navbar from './landing_page/Navbar'
 import Notfound from './landing_page/Notfound'
+import './main.css'
+
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>

@@ -24,6 +24,13 @@ function Navbar() {
                 Home
               </Link>
             </li>
+
+            <li class="nav-item">
+              <Link class="nav-link active"  to='/about'>
+                About
+              </Link>
+            </li>
+
             <li class="nav-item">
               <Link class="nav-link active" to='/signup' style={{marginLeft:"30px"}}>
                 Signup
